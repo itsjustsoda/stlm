@@ -3,7 +3,7 @@ WARN=-Wall -W
 
 default: all
 
-al: stlm
+all: stlm
 
 .DEFAULT: stlm
 	
